@@ -1,0 +1,12 @@
+
+1- register
+	6 fields lenge 
+    	usko validate karenge
+        after validation i want the field to be printed and return in postman response 
+
+2- Login
+	2 fields 
+    	-userid and password 
+        -i want the user id and password to be static placed in the code 
+        -agar frontend se mujhse same password aya to return karna hai login succesfully if not then not login
+
